@@ -1,4 +1,4 @@
-module github.com/tarunrao08/restaurant-menu-analytics
+module github.com/tarunrao08/restaurant-menu-analytic
 
 go 1.20
 
