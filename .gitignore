@@ -3,3 +3,7 @@
 *.mod
 
 *.sum
+
+# Ignore log.txt files
+
+*.txt
