@@ -1,4 +1,5 @@
 # Ignore go.mod and go.sum files
+
 *.mod
 
 *.sum
